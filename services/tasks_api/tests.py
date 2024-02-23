@@ -12,7 +12,7 @@ def client():
 
 def test_health_check(client):
     """
-    Given
+    GIVEN
     When health check endpoint is called with GET method
     THEN response with status 200 and body ok is returned
     """
