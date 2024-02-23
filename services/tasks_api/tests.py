@@ -1,5 +1,4 @@
 import pytest
-
 from fastapi import status
 from starlette.testclient import TestClient
 
